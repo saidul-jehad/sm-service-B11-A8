@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/8xVk1pz/doctor1.jpg",
+        "name": "Dr. Ayesha Rahman",
+        "education": "MBBS, FCPS (Medicine)",
+        "speciality": "Internal Medicine",
+        "experience": "8 Years",
+        "registrationNumber": "BMDC-102349",
+        "fee": 700,
+        "workingAt": "Square Hospital, Dhaka"
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/2kL4Qjj/doctor2.jpg",
+        "name": "Dr. Mahmud Hasan",
+        "education": "MBBS, MS (Orthopedics)",
+        "speciality": "Orthopedic Surgeon",
+        "experience": "12 Years",
+        "registrationNumber": "BMDC-984221",
+        "fee": 800,
+        "workingAt": "United Hospital, Dhaka"
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/ZBxvLr8/doctor3.jpg",
+        "name": "Dr. Farhana Siddiqui",
+        "education": "MBBS, DGO",
+        "speciality": "Gynecology & Obstetrics",
+        "experience": "10 Years",
+        "registrationNumber": "BMDC-772310",
+        "fee": 650,
+        "workingAt": "Dhaka Medical College Hospital"
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/Z2c9J8x/doctor4.jpg",
+        "name": "Dr. Samiul Karim",
+        "education": "MBBS, MD (Cardiology)",
+        "speciality": "Cardiologist",
+        "experience": "14 Years",
+        "registrationNumber": "BMDC-883420",
+        "fee": 1000,
+        "workingAt": "National Heart Foundation"
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co/WP2tgF7/doctor5.jpg",
+        "name": "Dr. Maria Alam",
+        "education": "MBBS, MCPS (Dermatology)",
+        "speciality": "Dermatologist",
+        "experience": "7 Years",
+        "registrationNumber": "BMDC-552901",
+        "fee": 600,
+        "workingAt": "Popular Diagnostic Centre, Dhanmondi"
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/s1RYG8S/doctor6.jpg",
+        "name": "Dr. Jahangir Hossain",
+        "education": "MBBS, MS (Urology)",
+        "speciality": "Urologist",
+        "experience": "11 Years",
+        "registrationNumber": "BMDC-442319",
+        "fee": 900,
+        "workingAt": "Evercare Hospital, Dhaka"
+    },
+    {
+        "id": 7,
+        "image": "https://i.ibb.co/5W1by4f/doctor7.jpg",
+        "name": "Dr. Shaila Moni",
+        "education": "MBBS, MD (Neurology)",
+        "speciality": "Neurologist",
+        "experience": "9 Years",
+        "registrationNumber": "BMDC-620413",
+        "fee": 850,
+        "workingAt": "Bangabandhu Sheikh Mujib Medical University (BSMMU)"
+    },
+    {
+        "id": 8,
+        "image": "https://i.ibb.co/8D5PS2H/doctor8.jpg",
+        "name": "Dr. Arif Chowdhury",
+        "education": "MBBS, FCPS (ENT)",
+        "speciality": "ENT Specialist",
+        "experience": ": 13 Years",
+        "registrationNumber": "BMDC-305812",
+        "fee": 700,
+        "workingAt": "Ibn Sina Hospital, Dhanmondi"
+    },
+    {
+        "id": 9,
+        "image": "https://i.ibb.co/b1Qq4Ss/doctor9.jpg",
+        "name": "Dr. Nabila Noor",
+        "education": "MBBS, FCPS (Pediatrics)",
+        "speciality": "Child Specialist",
+        "experience": "6 Years",
+        "registrationNumber": "BMDC-875402",
+        "fee": 600,
+        "workingAt": "Central Hospital, Dhaka"
+    },
+    {
+        "id": 10,
+        "image": "https://i.ibb.co/99FTTtD/doctor10.jpg",
+        "name": "Dr. Salman Haque",
+        "education": "MBBS, MS (Eye)",
+        "speciality": "Ophthalmologist",
+        "experience": "15 Years",
+        "registrationNumber": "BMDC-198234",
+        "fee": 900,
+        "workingAt": "Vision Eye Hospital"
+    },
+    {
+        "id": 11,
+        "image": "https://i.ibb.co/W0vwHdB/doctor11.jpg",
+        "name": "Dr. Taslima Mehjabin",
+        "education": "MBBS, FCPS (Psychiatry)",
+        "speciality": "Psychiatrist",
+        "experience": "8 Years",
+        "registrationNumber": "BMDC-745102",
+        "fee": 750,
+        "workingAt": "National Institute of Mental Health"
+    },
+    {
+        "id": 12,
+        "image": "https://i.ibb.co/cLm90xg/doctor12.jpg",
+        "name": "Dr. Hasan Mahmud",
+        "education": "MBBS, MD (Gastroenterology)",
+        "speciality": "Gastroenterologist",
+        "experience": "10 Years",
+        "registrationNumber": "BMDC-339820",
+        "fee": 950,
+        "workingAt": "Labaid Specialized Hospital"
+    }
+]
