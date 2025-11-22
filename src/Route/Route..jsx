@@ -3,6 +3,7 @@ import { createBrowserRouter } from 'react-router';
 import Root from '../Root/Root';
 import Blogs from '../Pages/Blogs/Blogs';
 import Home from '../Pages/Home/Home/Home';
+import DoctorDetails from '../Pages/Home/Doctors/Doctor Details/DoctorDetails';
 
 const router = createBrowserRouter([
     {
@@ -18,7 +19,12 @@ const router = createBrowserRouter([
             {
                 path: '/blogs',
                 Component: Blogs,
-            }
+            },
+            {
+                path: '/doctor/:id',
+                loader: () => fetch('/doctors.json'), 
+                Component: DoctorDetails,
+            },
         ]
     }
 ])

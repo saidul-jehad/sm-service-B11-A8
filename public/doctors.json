@@ -8,7 +8,12 @@
         "experience": "8 Years",
         "registrationNumber": "BMDC-102349",
         "fee": 700,
-        "workingAt": "Square Hospital, Dhaka"
+        "workingAt": "Square Hospital, Dhaka",
+        "availability": [
+            "Sunday",
+            "Tuesday",
+            "Thursday"
+        ]
     },
     {
         "id": 2,
@@ -19,7 +24,12 @@
         "experience": "12 Years",
         "registrationNumber": "BMDC-984221",
         "fee": 800,
-        "workingAt": "United Hospital, Dhaka"
+        "workingAt": "United Hospital, Dhaka",
+        "availability": [
+            "Monday",
+            "Wednesday",
+            "Saturday"
+        ]
     },
     {
         "id": 3,
@@ -30,40 +40,59 @@
         "experience": "10 Years",
         "registrationNumber": "BMDC-772310",
         "fee": 650,
-        "workingAt": "Dhaka Medical College Hospital"
+        "workingAt": "Dhaka Medical College Hospital",
+        "availability": [
+            "Sunday",
+            "Monday",
+            "Wednesday"
+        ]
     },
     {
         "id": 4,
-        "image": "https://plus.unsplash.com/premium_photo-1658506671316-0b293df7c72b?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZG9jdG9yfGVufDB8fDB8fHww",
+        "image": "https://plus.unsplash.com/premium_photo-1658506671316-0b293df7c72b?fm=jpg&q=60&w=3000",
         "name": "Dr. Samiul Karim",
         "education": "MBBS, MD (Cardiology)",
         "speciality": "Cardiologist",
         "experience": "14 Years",
         "registrationNumber": "BMDC-883420",
         "fee": 1000,
-        "workingAt": "National Heart Foundation"
+        "workingAt": "National Heart Foundation",
+        "availability": [
+            "Monday",
+            "Thursday",
+            "Friday"
+        ]
     },
     {
         "id": 5,
-        "image": "https://images.pexels.com/photos/19218034/pexels-photo-19218034/free-photo-of-smiling-doctor-in-a-lab-coat-and-with-a-stethoscope.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image": "https://images.pexels.com/photos/19218034/pexels-photo-19218034/free-photo-of-smiling-doctor-in-a-lab-coat-and-with-a-stethoscope.jpeg",
         "name": "Dr. Maria Alam",
         "education": "MBBS, MCPS (Dermatology)",
         "speciality": "Dermatologist",
         "experience": "7 Years",
         "registrationNumber": "BMDC-552901",
         "fee": 600,
-        "workingAt": "Popular Diagnostic Centre, Dhanmondi"
+        "workingAt": "Popular Diagnostic Centre, Dhanmondi",
+        "availability": [
+            "Sunday",
+            "Tuesday"
+        ]
     },
     {
         "id": 6,
-        "image": "https://media.istockphoto.com/id/1468678624/photo/nurse-hospital-employee-and-portrait-of-black-man-in-a-healthcare-wellness-and-clinic-feeling.jpg?s=612x612&w=0&k=20&c=AGQPyeEitUPVm3ud_h5_yVX4NKY9mVyXbFf50ZIEtQI=",
+        "image": "https://media.istockphoto.com/id/1468678624/photo/nurse-hospital-employee-and-portrait-of-black-man-in-a-healthcare-wellness-and-clinic-feeling.jpg",
         "name": "Dr. Jahangir Hossain",
         "education": "MBBS, MS (Urology)",
         "speciality": "Urologist",
         "experience": "11 Years",
         "registrationNumber": "BMDC-442319",
         "fee": 900,
-        "workingAt": "Evercare Hospital, Dhaka"
+        "workingAt": "Evercare Hospital, Dhaka",
+        "availability": [
+            "Wednesday",
+            "Thursday",
+            "Saturday"
+        ]
     },
     {
         "id": 7,
@@ -74,18 +103,28 @@
         "experience": "9 Years",
         "registrationNumber": "BMDC-620413",
         "fee": 850,
-        "workingAt": "Bangabandhu Sheikh Mujib Medical University (BSMMU)"
+        "workingAt": "BSMMU",
+        "availability": [
+            "Sunday",
+            "Monday",
+            "Thursday"
+        ]
     },
     {
         "id": 8,
-        "image": "https://market-resized.envatousercontent.com/photodune.net/EVA/TRX/2c/5e/35/e2/76/v1_E10/E109CG4V.jpg?auto=format&q=94&mark=https%3A%2F%2Fassets.market-storefront.envato-static.com%2Fwatermarks%2Fphoto-260724.png&opacity=0.2&cf_fit=contain&w=590&h=885&s=4b95f37d2220201e10c2b6791a9a3cf37f308f0315b4ba0ba8308067486aac91",
+        "image": "https://market-resized.envatousercontent.com/photodune.net/EVA/TRX/2c/5e/35/e2/76/v1_E10/E109CG4V.jpg",
         "name": "Dr. Arif Chowdhury",
         "education": "MBBS, FCPS (ENT)",
         "speciality": "ENT Specialist",
-        "experience": ": 13 Years",
+        "experience": "13 Years",
         "registrationNumber": "BMDC-305812",
         "fee": 700,
-        "workingAt": "Ibn Sina Hospital, Dhanmondi"
+        "workingAt": "Ibn Sina Hospital, Dhanmondi",
+        "availability": [
+            "Tuesday",
+            "Thursday",
+            "Friday"
+        ]
     },
     {
         "id": 9,
@@ -96,7 +135,11 @@
         "experience": "6 Years",
         "registrationNumber": "BMDC-875402",
         "fee": 600,
-        "workingAt": "Central Hospital, Dhaka"
+        "workingAt": "Central Hospital, Dhaka",
+        "availability": [
+            "Sunday",
+            "Wednesday"
+        ]
     },
     {
         "id": 10,
@@ -107,28 +150,42 @@
         "experience": "15 Years",
         "registrationNumber": "BMDC-198234",
         "fee": 900,
-        "workingAt": "Vision Eye Hospital"
+        "workingAt": "Vision Eye Hospital",
+        "availability": [
+            "Monday",
+            "Tuesday",
+            "Friday"
+        ]
     },
     {
         "id": 11,
-        "image": "https://img.freepik.com/free-photo/female-doctor-hospital-with-stethoscope_23-2148827774.jpg?semt=ais_hybrid&w=740&q=80",
+        "image": "https://img.freepik.com/free-photo/female-doctor-hospital-with-stethoscope_23-2148827774.jpg",
         "name": "Dr. Taslima Mehjabin",
         "education": "MBBS, FCPS (Psychiatry)",
         "speciality": "Psychiatrist",
         "experience": "8 Years",
         "registrationNumber": "BMDC-745102",
         "fee": 750,
-        "workingAt": "National Institute of Mental Health"
+        "workingAt": "National Institute of Mental Health",
+        "availability": [
+            "Sunday",
+            "Thursday"
+        ]
     },
     {
         "id": 12,
-        "image": "https://img.freepik.com/free-photo/portrait-male-doctor_23-2148480369.jpg?semt=ais_hybrid&w=740&q=80",
+        "image": "https://img.freepik.com/free-photo/portrait-male-doctor_23-2148480369.jpg",
         "name": "Dr. Hasan Mahmud",
         "education": "MBBS, MD (Gastroenterology)",
         "speciality": "Gastroenterologist",
         "experience": "10 Years",
         "registrationNumber": "BMDC-339820",
         "fee": 950,
-        "workingAt": "Labaid Specialized Hospital"
+        "workingAt": "Labaid Specialized Hospital",
+        "availability": [
+            "Monday",
+            "Wednesday",
+            "Saturday"
+        ]
     }
 ]

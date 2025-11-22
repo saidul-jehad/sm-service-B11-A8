@@ -37,8 +37,8 @@ const Doctors = () => {
 
             <div onClick={handleShowAll} className='flex justify-center mt-7'>
                 <button className='btn btn-primary '>
-                {showAll ? "Less Doctors" : " Show All Doctors"}
-            </button>
+                    {showAll ? "Less Doctors" : " Show All Doctors"}
+                </button>
             </div>
         </div >
     );

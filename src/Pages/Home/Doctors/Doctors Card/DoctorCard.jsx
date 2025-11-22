@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router';
 
 const DoctorCard = ({ doctor }) => {
     // console.log(doctor);
@@ -15,7 +16,7 @@ const DoctorCard = ({ doctor }) => {
                         alt="Shoes"
                         className="rounded-xl min-w-[300px] max-w-[400px] h-[200px]" />
                 </figure>
-                <div className="card-body p-10 mx-2 ">
+                <div className="card-body p-10 ">
                     <div className="card-actions ">
                         <div className="badge badge-outline text-green-500 ">Available</div>
                         <div className="badge badge-outline text-blue-500">{experience} Experience</div>
@@ -26,7 +27,7 @@ const DoctorCard = ({ doctor }) => {
                     <p className='border-t border-dashed pt-3'><span className='font-medium'>Reg No:</span> {registrationNumber}</p>
                     <p><span className='font-medium'>Speciality:</span> {speciality}</p>
                     <div className="card-actions">
-                        <button className="btn btn-outline btn-primary w-full">View Details</button>
+                        <Link className="btn btn-outline btn-primary w-full" to={`/doctor/${id}`}>  <button >View Details</button></Link>
                     </div>
 
                 </div>
