@@ -17,6 +17,7 @@ const DoctorDetails = () => {
     const handleBookAppointment = (id) => {
         addToStoredDB(id)
         console.log(id);
+        navigate('/bookings')
 
     }
 

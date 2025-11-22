@@ -4,7 +4,6 @@ import toast from "react-hot-toast";
 const getBookData = () => {
     const storedBookListSTR = localStorage.getItem('bookList')
 
-
     if (storedBookListSTR) {
         const storedBookData = JSON.parse(storedBookListSTR)
         return storedBookData
@@ -29,7 +28,17 @@ const addToStoredDB = (id) => {
         toast.success("Booking Success!")
         console.log('else');
 
+
     }
 }
 
-export { getBookData, addToStoredDB };
+const deleteBooking = (id) => {
+    const storedBookData = getBookData()
+    const updateBookData = storedBookData.filter((item) => item.id !== id)
+    localStorage.setItem('bookList', JSON.stringify(updateBookData))
+    toast.error('Appointment Cancel')
+}
+
+
+
+export { getBookData, addToStoredDB, deleteBooking };
